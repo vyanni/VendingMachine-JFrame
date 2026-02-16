@@ -1,0 +1,2 @@
+Day 1 Revenue: 146
+Day 2 Revenue: 12
